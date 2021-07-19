@@ -1,0 +1,15 @@
+{
+  "name": "less-caching",
+  "version": "1.0.0",
+  "description": "Project to serve a boilerplate for testing the grunt-less-contrib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-less": "^3.0.0"
+  }
+}
